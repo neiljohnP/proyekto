@@ -1,0 +1,18 @@
+[
+    {
+        "name": "kangkong chips",
+        "price": "99.99",
+        "description": "Enjoy the rich and aromatic flavors of our premium Arabica coffee beans. Sourced from the finest coffee plantations, these beans are carefully roasted to perfection, delivering a smooth and full-bodied coffee experience. Each 1lb bag of Arabica coffee beans is a treat for your taste buds, making it the perfect choice for coffee enthusiasts.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "coffees/7dfg98h32lgw8sdl93j",
+                "url": "https://res.cloudinary.com/coffee-time/image/upload/v1608062030/coffees/7dfg98h32lgw8sdl93j.jpg"
+            }
+        ],
+        "category": "cheese",
+        "stock": 100,
+        "numOfReviews": 55,
+        "reviews": []
+    }
+]

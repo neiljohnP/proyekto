@@ -1,6 +1,6 @@
 const app = require('./app')
 const connectDatabase = require('./config/database')
-const PORT = 4001;
+const PORT = 4000;
 
 const dotenv = require('dotenv');
 
